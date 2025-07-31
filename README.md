@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola a todos! Soy Sk1lla (s1lenceSK1)</h1>
+<h1 align="center">👋 ¡Hola a todos! Soy S1lence / Santino - CEO de S1lence Bots</h1>
 <p align="center">
   💻 <b>Discord Developer | Bots | Automatización</b> <br>
   🎵 <i>Creador, curioso y apasionado por la tecnología.</i>
