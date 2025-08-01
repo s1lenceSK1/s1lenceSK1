@@ -12,7 +12,7 @@
 - 🔥 Apasionado por **Node.js**, **JavaScript** y **Lua**.
 - 🤖 Desarrollo de **bots** para Discord, automatizaciones y APIs.
 - 🚀 Siempre aprendiendo nuevas tecnologías y frameworks.
-- 🛠️ Experiencia con bases de datos. (**MySQL**)
+- 🛠️ Experiencia con bases de datos (**MySQL**).
 - 🎮 Amante del gaming y los proyectos de comunidad.
 - 📝 Me gusta documentar y compartir mi conocimiento.
 - 📍 Nacido en Buenos Aires, Argentina.
@@ -37,23 +37,26 @@
 
 ## 🌟 Proyectos destacados
 
-- **Bots para Discord** (Moderación, Fichajes/Facturas, integración de APIs)
-- **Sistemas de automatización** para servidores y comunidades
-- **APIs y microservicios** en Node.js
-- **Desarrollo de scripts en Lua** para plataformas como MTA:SA/DayZ
-- **Paneles de administración** y herramientas para comunidades de gaming
+- [**Demostración NovaDigital**](https://demostracion-novadigital.netlify.app)  
+  _Landing y panel demo para un sistema de bots y automatización. Permite explorar la integración con Discord y visualizar servicios personalizados._
+
+- [**S1lence Bots**](https://s1lence-bots.vercel.app)  
+  _Sitio oficial de mis bots y servicios para Discord. Encontrá información, precios, contacto directo y novedades del proyecto._
+
+- [**Portfolio personal**](https://portfolio-santino-cuello.vercel.app)  
+  _Mi portfolio como desarrollador: proyectos, experiencia, tecnologías y contacto, todo en un solo lugar._
 
 ---
 
 ## 📫 Cómo contactarme
 
-- [Discord](https://discord.gg/Pdg5zcQ9Xv)
-- [s1lence.cs](https://discord.com/users/s1lence.cs)
+- [Discord (servidor)](https://discord.gg/Pdg5zcQ9Xv)
+- [Discord (usuario)](https://discord.com/users/s1lence.cs)
 - **Email:** contacto.s1lencebots@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,lua,express,discord,linux,mysql,git,vscode" alt="Skill Icons" /><br>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,lua,python,express,discord,linux,mysql,git,vscode,html,css" alt="Skill Icons" /><br>
   <i>“El mejor código es el que hace la vida más fácil.”</i>
 </p>
