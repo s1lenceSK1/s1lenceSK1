@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola a todos! Soy Santino / S1lence</h1>
 <p align="center">
   👤 <b>CEO de S1lence Dev</b> <br>
-  💻 <b>Discord Developer | Bots | Automatización</b> <br>
+  💻 <b>Discord Developer | Bots | Webs</b> <br>
   🎵 <i>Creador, curioso y apasionado por la tecnología.</i>
 </p>
 
