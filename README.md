@@ -1,6 +1,6 @@
 <h1 align="center">👋 ¡Hola a todos! Soy Santino / S1lence</h1>
 <p align="center">
-  👤 <b>CEO de S1lence Bots</b> <br>
+  👤 <b>CEO de S1lence Dev</b> <br>
   💻 <b>Discord Developer | Bots | Automatización</b> <br>
   🎵 <i>Creador, curioso y apasionado por la tecnología.</i>
 </p>
@@ -40,7 +40,7 @@
 - [**Demostración NovaDigital**](https://demostracion-novadigital.netlify.app)  
   _Landing y panel demo para automatización. Permite explorar la integración con Discord y visualizar servicios personalizados._
 
-- [**S1lence Bots**](https://s1lence-bots.vercel.app)  
+- [**S1lence Dev**](https://s1lencedev.vercel.app)  
   _Sitio oficial de mis servicios para Discord y Desarrollo Web. Encontrá información, precios, contacto directo y novedades del proyecto._
 
 - [**Portfolio personal**](https://portfolio-santino-cuello.vercel.app)  
@@ -51,7 +51,7 @@
 ## 📫 Cómo contactarme
 
 - [Discord](https://discord.gg/Pdg5zcQ9Xv)
-- [Web](https://s1lence-bots.vercel.app)
+- [Web](https://s1lencedev.vercel.app)
 - [PortFolios](https://portfolio-santino-cuello.vercel.app)
 - **Email:** contacto.s1lencebots@gmail.com
 
