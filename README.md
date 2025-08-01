@@ -11,6 +11,7 @@
 
 - 🔥 Apasionado por **Node.js**, **JavaScript** y **Lua**.
 - 🤖 Desarrollo de **bots** para Discord, automatizaciones y APIs.
+- 🌐 Desarrollo de **Webs** Modernas para comunidades, portafolios, proyectos y empresas.
 - 🚀 Siempre aprendiendo nuevas tecnologías y frameworks.
 - 🛠️ Experiencia con bases de datos (**MySQL**).
 - 🎮 Amante del gaming y los proyectos de comunidad.
