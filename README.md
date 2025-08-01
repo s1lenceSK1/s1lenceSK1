@@ -38,10 +38,10 @@
 ## 🌟 Proyectos destacados
 
 - [**Demostración NovaDigital**](https://demostracion-novadigital.netlify.app)  
-  _Landing y panel demo para un sistema de bots y automatización. Permite explorar la integración con Discord y visualizar servicios personalizados._
+  _Landing y panel demo para automatización. Permite explorar la integración con Discord y visualizar servicios personalizados._
 
 - [**S1lence Bots**](https://s1lence-bots.vercel.app)  
-  _Sitio oficial de mis bots y servicios para Discord. Encontrá información, precios, contacto directo y novedades del proyecto._
+  _Sitio oficial de mis servicios para Discord y Desarrollo Web. Encontrá información, precios, contacto directo y novedades del proyecto._
 
 - [**Portfolio personal**](https://portfolio-santino-cuello.vercel.app)  
   _Mi portfolio como desarrollador: proyectos, experiencia, tecnologías y contacto, todo en un solo lugar._
