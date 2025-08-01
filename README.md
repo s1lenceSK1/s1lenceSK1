@@ -50,8 +50,9 @@
 
 ## 📫 Cómo contactarme
 
-- [Discord (servidor)](https://discord.gg/Pdg5zcQ9Xv)
-- [Discord (usuario)](https://discord.com/users/s1lence.cs)
+- [Discord](https://discord.gg/Pdg5zcQ9Xv)
+- [Web](https://s1lence-bots.vercel.app)
+- [PortFolios](https://portfolio-santino-cuello.vercel.app)
 - **Email:** contacto.s1lencebots@gmail.com
 
 ---
