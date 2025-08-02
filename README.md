@@ -38,7 +38,7 @@
 
 ## 🌟 Proyectos destacados
 
-- [**Demostración NovaDigital**](https://demostracion-novadigital.netlify.app) [![Netlify Status](https://api.netlify.com/api/v1/badges/3100f61c-7687-458c-826c-03cec67ce82c/deploy-status)](https://app.netlify.com/projects/demostracion-novadigital/deploys)
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/3100f61c-7687-458c-826c-03cec67ce82c/deploy-status)](https://app.netlify.com/projects/demostracion-novadigital/deploys)[**Demostración NovaDigital**](https://demostracion-novadigital.netlify.app)
   _Landing y panel demo para automatización. Permite explorar la integración con Discord y visualizar servicios personalizados._
 
 - [**S1lence Dev**](https://s1lencedev.vercel.app)  
