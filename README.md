@@ -54,7 +54,7 @@
 - [Discord](https://discord.gg/Pdg5zcQ9Xv)
 - [Web](https://s1lencedev.vercel.app)
 - [PortFolios](https://portfolio-santino-cuello.vercel.app)
-- **Email:** contacto.s1lencebots@gmail.com
+- **Email:** contacto.s1lencedev@gmail.com
 
 ---
 
